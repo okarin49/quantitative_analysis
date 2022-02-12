@@ -84,8 +84,3 @@ ggplot(data, aes(x=X2, y=Ysm2)) +
   labs(x = "X2", y = "Ysm2",
        title = "Simulation Study Regress Ysm2 on X2", 
        subtitle = "n = 400, M = 200")
-
-
-## to used the corresponding saved results, you need to output them
-## or use the variable names in a short code of you for further analysis
-## end of the code
